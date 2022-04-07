@@ -4,7 +4,7 @@
   padding: 0;
 }
 
-.container {
+.container1 {
   display: flex;
   background-color: rgba(254, 252, 250, 0.845);
   justify-content: space-between;
@@ -107,7 +107,10 @@
   justify-content: center;
 }
 .container{
+  display: flex;
   background-color: green;
+  justify-content: space-between;
+  align-items: center;
   color: white;
   padding: 40px;
 }
